@@ -1,3 +1,4 @@
+```markdown
 📦 MVP_LangGraph_Project
  ┃
  ┣━━ 🛠️ Part 1: Environment & Dependency Setup
@@ -34,3 +35,5 @@
       ┣━━ 📥 Task 6.1: Siapkan payload `initial_input` dictionary (berisi tugas awal) [cite: 92]
       ┣━━ 🏃 Task 6.2: Jalankan aplikasi menggunakan `.invoke(initial_input)` [cite: 93]
       ┗━━ 🖥️ Task 6.3: Cetak (`print`) hasil akhir dan pantau perubahan state tiap perulangan [cite: 94]
+
+```
