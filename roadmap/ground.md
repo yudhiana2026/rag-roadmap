@@ -1,4 +1,4 @@
-```markdown
+
 # Roadmap AI Engineer: Spesialisasi LangGraph (Pemula Hingga Expert)
 
 Menjadi seorang AI Engineer yang berspesialisasi dalam membangun agen AI (*AI Agents*) menggunakan **LangGraph** adalah pilihan karier yang sangat menjanjikan. LangGraph (dikembangkan oleh tim LangChain) fokus pada pembuatan aplikasi *stateful* dan *multi-agent* yang memiliki siklus (*cycles/loops*)—sangat cocok untuk sistem AI kompleks yang meniru cara kerja kognitif manusia.
@@ -47,4 +47,3 @@ Membuat agen di komputer lokal (*localhost*) itu mudah, namun membawanya ke taha
 | **2. Core LangGraph** | Pahami State, Nodes, dan Conditional Edges | **Reflective Agent:** Agen yang menulis artikel, mengkritik tulisan sendiri, lalu memperbaikinya dalam siklus perulangan. |
 | **3. Fitur Advanced** | Terapkan Checkpointers & Human-in-the-loop | **Customer Support Bot:** Bot yang bisa refund uang, tapi butuh klik persetujuan "Yes/No" dari admin (Human). |
 | **4. Multi-Agent** | Gabungkan beberapa graf / kolaborasi agen | **Software Dev Team:** Agen Product Manager membuat spek, Agen Coder menulis kode, Agen QA melakukan testing. |
-```
